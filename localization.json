@@ -1,0 +1,15 @@
+{
+  "locales": [ "zh-cn" ],
+  "branch": "master",
+  "quality": "human",
+  "files": {
+    "md": {
+    	"src": "articles/**/*.md; includes/**/*.md",
+    	"dest": "<azurecontent.:locale>"
+   	},
+    "image": {
+    	"src": "**/*.png",
+		"dest": "<azurecontent.:locale>"
+  	},
+  }
+}
