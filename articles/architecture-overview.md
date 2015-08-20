@@ -17,6 +17,7 @@
 	ms.author="robb"/>
 
 #Application Architecture on Microsoft Azure
+Welcome
 Resources for building applications that use Microsoft Azure.
 
 ##Azure Architectural Design Patterns
