@@ -16,7 +16,7 @@
    ms.date="03/25/2015"
    ms.author="arynes"/>
 
-# Azure Search Tier (Azure Architecture Patterns)
+# Azure Search Tier (Azure Architecture Patterns) Modified
 
 The [Cloud Platform Integration Framework (CPIF)](azure-architectures-cpif-overview.md) provides workload integration guidance for onboarding applications into a Microsoft Cloud Solution.  
 
