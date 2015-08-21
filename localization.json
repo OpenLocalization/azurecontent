@@ -5,7 +5,7 @@
   "files": {
     "md": {
     	"src": "articles/**/*.md; includes/**/*.md",
-    	"dest": "localized/:locale"
+    	"dest": "<azurecontent.:locale>"
    	},
     "image": {
     	"src": "**/*.png",
