@@ -1,5 +1,5 @@
 {
-  "locales": [ "zh-cn" ],
+  "locales": [ "zh-cn", "de" ],
   "branch": "master",
   "quality": "human",
   "files": {
