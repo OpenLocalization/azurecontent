@@ -9,7 +9,7 @@
    	},
     "image": {
     	"src": "**/*.png",
-		"dest": "<azurecontent.:locale>"
-  	}
+	"dest": "<azurecontent.:locale>"
+    }
   }
 }
