@@ -1,6 +1,6 @@
 ﻿#你好
 欢迎回来
-Resources for building applications that use Microsoft Azure.
+资源 for building applications that use Microsoft Azure.
 
 ##Azure Architectural Design Patterns
 Microsoft publishes series of architectural design patterns to help you compose your own custom designs. The patterns are intended to be concise architectural guides which can be composed together in order provide guidance on how to best leverage the Microsoft Azure platform to solve your organization’s business needs.
