@@ -5,6 +5,7 @@
   "files": {
     "md": {
     	"src": "articles/**/*.md; includes/**/*.md",
+    	"quota": "articles/api-management/api-mangement-howto*.md",
     	"dest": "<azurecontent.:locale>"
    	},
     "image": {
